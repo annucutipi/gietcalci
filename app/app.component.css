@@ -1,0 +1,18 @@
+h1{
+	color: #222021;
+	background-color: #B9BBB6;
+	text-align: center;
+}
+p{
+	color: #48494B;
+}
+h2{
+	color: #877F7D;
+}
+hr{
+	border-style: dotted;
+}
+button{
+	background-color: #B9BBB6;
+	border-style: inset;
+}
